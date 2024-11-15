@@ -14,8 +14,10 @@ This project implements a system to register and verify user faces using the `De
 ## Required Libraries and Installation
 - **DeepFace**: A modern library for facial recognition and analysis.
   - Install with: `pip install deepface`
+  - Version: 0.0.93
 - **scipy**: Used for cosine similarity calculations.
   - Install with: `pip install scipy`
+  - Version: 1.14.1
 
 ## How to Run
 1. Clone this repository or download the script.
